@@ -1,6 +1,6 @@
 # O Objetivo desse projeto primeiramente é desenvolver minhas habilidades em analise de dados em Python e fazer uma discussão estatistica do resultado, é um projeto de estudo, então obviamente terão alguns erros ou pontos que posso ter deixado de notar,além disso existem as limitações das bases de dados que usei no projeto, por estarem um pouco desatualizadas, não contabilizam todas as vendas dos jogos, a meta é melhorar o coding e a discussão teorica conforme concluo mais projetos ;)
 
-# A ideia central do projeto é ver se existe correlação entre o numero de vendas globais de um jogo e sua nota no Metacritic, será que as reviews de criticos tem impactado no sucesso comercial dos jogos ? jogos muito bem avaliados SEMPRE tem alcançado sucesso comercial ? 
+# A ideia central do projeto é ver se existe relação entre o numero de vendas globais de um jogo e sua nota no Metacritic, será que as reviews de criticos tem impactado no sucesso comercial dos jogos ? jogos muito bem avaliados SEMPRE tem alcançado sucesso comercial ? 
 
 # Foram utilizadas as bibilotecas Pandas para leitura, limpeza e filtragem de dados e matplotlib para a construção dos graficos, além do Jupyter Notebook como ambiente de desenvolvimento
 
