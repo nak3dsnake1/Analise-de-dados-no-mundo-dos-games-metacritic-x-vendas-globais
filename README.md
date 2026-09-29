@@ -34,5 +34,9 @@
 | grand theft auto iv | 22.53 | 95.3 |
 | call of duty: advanced warfare | 21.78 | 80.7 |
 | the elder scrolls v: skyrim | 20.51 | 91.5 |
-# SEÇÃO PARA OS GRAFICOS 
-# DISCUSSÃO ESTATISTICA
+
+# Minha ideia para plotar os graficos, foi destacar o top 10 de vendas e o top 10 de notas, e ver como o top 10 de cada categoria se comporta em relação a massa geral de dados destaquei tambem os jogos que estão em ambas as listas.
+
+# Podemos ver inicialmente que os titulos GTA IV E GTA V aparecem em ambos os top 10, mostrando que a Rockstar é uma empresa que tem tanto o apoio do publico quanto o sucesso com os criticos, GTA V aparece totalmente destoando dos outros jogos estando no canto superior direito, alcançou o maior numero de vendas e uma nota alta. De acordo com o grafico a tendencia dos jogos no mercado é ficar abaixo dos 10 milhões em vendas, a nota esta influenciando nas vendas ? sim, vemos que a parte superior esquerda esta vazia, ou seja, nota baixa = venda baixa, porém nota alta não implica sucesso absoluto em vendas os jogos com notas altas apresentam dispersão no eixo das vendas isso cria uma distribuição assimetrica a direita, a nota então é uma condição necessaria mas não suficiente para o sucesso comercial, fatores como marketing por parte da empresa, jogo nichado ou com mecanicas complexas podem fazer com que o jogo tenha aclamação da critica mas uma quantidade moderada de vendas.
+
+# A discussão estatistica completa e o codigo do projeto pode ser encontrado na pasta scripts, além disso tambem fiz uma analise levando em consideração apenas o genero de RPG(meu preferido), será que o grafico ficou parecido com o geral ? entra la e confira ;) 
