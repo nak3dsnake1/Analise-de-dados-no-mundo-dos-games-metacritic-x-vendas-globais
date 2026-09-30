@@ -40,7 +40,7 @@
 
 # Minha ideia para plotar os gráficos foi destacar o top 10 de vendas e o top 10 de notas, e ver como o top 10 de cada categoria se comporta em relação à massa geral de dados. Destaquei também os jogos que estão em ambas as listas.
 
-![Metacritic vs Vendas Globais](imagens/grafico_final.png)
+![Metacritic vs Vendas Globais](images/grafico_final.png)
 ## Conclusão 
 
 # Podemos ver inicialmente que os títulos GTA IV e GTA V aparecem em ambos os top 10, mostrando que a Rockstar é uma empresa que tem tanto o apoio do público quanto o sucesso com os críticos. GTA V aparece totalmente destoando dos outros jogos, estando no canto superior direito: alcançou o maior número de vendas e uma nota alta.
